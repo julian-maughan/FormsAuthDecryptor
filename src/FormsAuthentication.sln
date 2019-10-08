@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28922.388
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FormsAuthentication", "FormsAuthentication\FormsAuthentication.csproj", "{2C91D959-A635-4F0E-A3D5-A3148E879BD2}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FormsAuthentication.Tests", "FormsAuthentication.Tests\FormsAuthentication.Tests.csproj", "{847120EC-5714-46B5-9C0A-930880929DE7}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{9984E147-0620-4788-8DB3-F340F3F4C138}"
+	ProjectSection(SolutionItems) = preProject
+		README.md = README.md
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2C91D959-A635-4F0E-A3D5-A3148E879BD2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2C91D959-A635-4F0E-A3D5-A3148E879BD2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2C91D959-A635-4F0E-A3D5-A3148E879BD2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2C91D959-A635-4F0E-A3D5-A3148E879BD2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{847120EC-5714-46B5-9C0A-930880929DE7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{847120EC-5714-46B5-9C0A-930880929DE7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{847120EC-5714-46B5-9C0A-930880929DE7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{847120EC-5714-46B5-9C0A-930880929DE7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C28C3223-0CE9-4B7F-972F-19171D00CF75}
+	EndGlobalSection
+EndGlobal

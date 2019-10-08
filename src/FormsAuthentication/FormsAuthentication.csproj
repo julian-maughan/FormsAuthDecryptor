@@ -1,0 +1,15 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+    <Authors>Julian Maughan</Authors>
+    <RootNamespace>FormsAuthentication</RootNamespace>
+    <AssemblyName>FormsAuthentication.Decryptor</AssemblyName>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    <PackageId>FormsAuthentication.Decryptor</PackageId>
+    <Product>FormsAuthentication Decryptor</Product>
+    <PackageId>FormsAuthentication.Decryptor</PackageId>
+    <PackageTags>dotnet core authentication auth forms-authentication</PackageTags>
+    <PackageProjectUrl>https://github.com/julian-maughan/FormsAuthDecryptor</PackageProjectUrl>
+    <PackageLicenseExpression>MIT</PackageLicenseExpression>
+  </PropertyGroup>
+</Project>
