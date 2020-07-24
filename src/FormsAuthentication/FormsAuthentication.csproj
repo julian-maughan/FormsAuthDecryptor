@@ -10,6 +10,11 @@
     <PackageId>FormsAuthentication.Decryptor</PackageId>
     <PackageTags>dotnet core authentication auth forms-authentication</PackageTags>
     <PackageProjectUrl>https://github.com/julian-maughan/FormsAuthDecryptor</PackageProjectUrl>
+    <PackageDescription>Decrypt Forms Authentication cookies on the .NET Core runtime</PackageDescription>
     <PackageLicenseExpression>MIT</PackageLicenseExpression>
+    <PackageLicenseFile>LICENSE</PackageLicenseFile>
   </PropertyGroup>
+  <ItemGroup>
+    <None Include="..\..\LICENSE" Pack="true" PackagePath=""/>
+  </ItemGroup>
 </Project>
