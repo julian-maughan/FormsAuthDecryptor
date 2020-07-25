@@ -5,6 +5,9 @@
     <RootNamespace>FormsAuthentication</RootNamespace>
     <AssemblyName>FormsAuthentication.Decryptor</AssemblyName>
     <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    <Copyright>Copyright © Julian Maughan 2020</Copyright>
+  </PropertyGroup>
+  <PropertyGroup>
     <PackageId>FormsAuthentication.Decryptor</PackageId>
     <Product>FormsAuthentication Decryptor</Product>
     <PackageId>FormsAuthentication.Decryptor</PackageId>
@@ -12,9 +15,5 @@
     <PackageProjectUrl>https://github.com/julian-maughan/FormsAuthDecryptor</PackageProjectUrl>
     <PackageDescription>Decrypt Forms Authentication cookies on the .NET Core runtime</PackageDescription>
     <PackageLicenseExpression>MIT</PackageLicenseExpression>
-    <PackageLicenseFile>LICENSE</PackageLicenseFile>
   </PropertyGroup>
-  <ItemGroup>
-    <None Include="..\..\LICENSE" Pack="true" PackagePath=""/>
-  </ItemGroup>
 </Project>

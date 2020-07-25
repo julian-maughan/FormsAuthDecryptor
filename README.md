@@ -1,5 +1,7 @@
 ﻿# FormsAuthentication.Decryptor
 
+[![NuGet version (FormsAuthentication.Decryptor)](https://img.shields.io/nuget/v/FormsAuthentication.Decryptor)](https://www.nuget.org/packages/FormsAuthentication.Decryptor/)
+
 A library to decrypt Forms Authentication cookies on the .NET Core runtime. Typically these cookies are created
 on older/legacy ASP.NET applications running .NET Framework, but may need to be decrypted/validated in a cloud
 or serverless context running .NET Core, e.g. AWS Lambda.
